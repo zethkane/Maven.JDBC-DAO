@@ -54,6 +54,7 @@ Create an App runner class to run each CRUD operation against your DAO
 * findAll()
 * update()
 * create()
+* delete()
 
 
 
